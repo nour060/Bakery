@@ -138,8 +138,8 @@ nav a:hover{
 .visit-text{
     flex:1;
     max-width:400px;
-    padding-top:75px;
-    padding-bottom: 75px;
+    padding-top:70px;
+    padding-bottom: 70px;
     padding-inline-start: 3%;
     padding-inline-end:3%;
     border-radius: 45px;
@@ -152,7 +152,7 @@ nav a:hover{
     margin-bottom: 15px;
 }
 .visit-text p{
-    font-size:18px;
+    font-size:19px;
     line-height: 1.5;
 }
 .visit-text a{
