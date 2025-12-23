@@ -3,14 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 body{
   background-color:#D9E9CF;
   color:black;
   font-family:cursive ;
-
 }
-
 header{
     width: 100%;
     padding:20px 60px;
@@ -19,22 +16,20 @@ header{
     border-style: dashed;
     border-top: #B6CEB4;
     border-color:#778873;
-
     z-index: 999;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-
 .logo{
-    font-size:24px;
+    font-size:20px;
     font-weight: bolder; 
 }
 nav a {
     text-decoration: none;
     margin: 0 15px;
     color:black;
-    font-size: large;
+    font-size: 16px;
     font-weight: bold;
     transition: color 0.3s ease;
 }
@@ -47,7 +42,7 @@ nav a:hover{
     padding:10px 20px;
     border-radius: 25px;
     text-decoration: none;
-    font-size:large ;
+    font-size:18px ;
     font-weight: bolder;
     border-style: dashed;
     border-color: #778873;
@@ -61,17 +56,16 @@ nav a:hover{
     border-color:#D9E9CF;
 }
 .hero h1{
-    font-size: 40px;
+    font-size: 33px;
     margin-bottom: 14px;
     font-weight: bolder;
 }
 .hero p{
-    font-size:larger ;
+    font-size:large ;
     margin-bottom: 25px;
     max-width: 600px;
     margin: auto;
     line-height: 2;
-
 }
 .hero a{
     background-color:#B6CEB4;
@@ -82,7 +76,7 @@ nav a:hover{
     padding: 12px 30px;
     border-radius:50px ;
     font-weight: bold;
-    font-size:20px;
+    font-size:18px;
     margin-top: 10px;
     display: inline-block;
 }
@@ -92,17 +86,17 @@ nav a:hover{
     background-color: #D9E9CF;
 }
 .why h2{
-    font-size:35px;
+    font-size:30px;
     margin-bottom: 40px;
 }
 .cartes{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 30px;
+    gap: 25px;
 }
 .card{
-    width: 300px;
+    width: 280px;
     text-align: center;
     background-color:#ECFAE5;
     border-radius: 50px;
@@ -115,13 +109,11 @@ nav a:hover{
     object-fit: cover;
 }
 .card h3{
-    font-size: x-large;
+    font-size:larger;
     margin: 15px 0 10px;
-
-
 }
 .card p{
-    font-size:large;
+    font-size:16px;
     color: black;
     padding: 0 15px 20px;
 }
@@ -133,7 +125,6 @@ nav a:hover{
     border-radius: 50px;
     margin-bottom: 20px;
     display: inline-block;
-
 }
 .visit-section{
     display: flex;
@@ -147,8 +138,8 @@ nav a:hover{
 .visit-text{
     flex:1;
     max-width:400px;
-    padding-top:60px;
-    padding-bottom: 60px;
+    padding-top:70px;
+    padding-bottom: 70px;
     padding-inline-start: 3%;
     padding-inline-end:3%;
     border-radius: 45px;
@@ -157,17 +148,16 @@ nav a:hover{
     text-align: center;
 }
 .visit-text h2{
-    font-size: 35px;
+    font-size: 30px;
     margin-bottom: 15px;
 }
 .visit-text p{
-    font-size:20px;
+    font-size:29px;
     line-height: 1.5;
 }
 .visit-text a{
     background-color:#B6CEB4;
     border-style: dashed;
-    
     text-decoration: none;
     color: black;
     padding: 12px 30px;
@@ -176,14 +166,12 @@ nav a:hover{
     font-size: large;
     margin-top: 10px;
     display: inline-block;
-    
-    
 }
 .visit-images{
     flex: 1;
     display: grid;
     grid-template-columns: repeat(2,1fr);
-    gap: 20px;
+    gap: 15px;
     max-width: 500px;
 }
 .visit-images img{
@@ -197,34 +185,27 @@ nav a:hover{
     text-align: center;
     padding: 70px 40px;
     background-color:#D9E9CF;
-
 }
 .visu{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap:30px ;
-
-
+    gap:25px ;
 }
 .v{
-    width: 300px;
+    width: 280px;
     background-color: #ECFAE5;
     border-radius: 50px;
     overflow: hidden;
     box-shadow: 0 6px 12px rgba(0,0,0,0.08);
-
 }
 .v img{
     width: 100%;
     height: 200px;
     object-fit: cover;
-    
-
-
 }
 .v h4{
-    font-size:larger;
+    font-size:large;
     padding: 10px 0 20px ;
 }
 .order-now{
@@ -238,13 +219,13 @@ nav a:hover{
     border-radius: 30px;
 }
 .order-now h2{
-    font-size:xx-large;
+    font-size:x-large;
     margin-bottom: 10px;
     color: black;
 }
 .order-now p{
     margin-bottom:30px ;
-    font-size: larger;
+    font-size: large;
 }
 .order-now form{
     max-width: 600px;
@@ -284,5 +265,5 @@ footer{
     padding: 30px;
     background-color: #B6CEB4;
     font-weight: bold;
-    font-size: larger;
+    font-size: large;
 }
