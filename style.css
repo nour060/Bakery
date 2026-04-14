@@ -47,6 +47,9 @@ nav a:hover{
     border-style: dashed;
     border-color: #778873;
 }
+.btn-commander a:hover{
+    color:#B6CEB4;
+}
 .hero{
     background-color: #B6CEB4;
     text-align: center;
@@ -79,6 +82,9 @@ nav a:hover{
     font-size:18px;
     margin-top: 10px;
     display: inline-block;
+}
+.hero a:hover{
+    color:#B6CEB4;
 }
 .why{
     text-align: center;
@@ -126,6 +132,9 @@ nav a:hover{
     margin-bottom: 20px;
     display: inline-block;
 }
+.card a:hover{
+    color:#B6CEB4;
+}
 .visit-section{
     display: flex;
     justify-content: space-between;
@@ -166,6 +175,9 @@ nav a:hover{
     font-size: large;
     margin-top: 10px;
     display: inline-block;
+}
+.visit-text a:hover{
+    color:#B6CEB4;
 }
 .visit-images{
     flex: 1;
@@ -259,6 +271,9 @@ nav a:hover{
     cursor: pointer;
     background-color: #ECFAE5;
     
+}
+.order-now button a:hover{
+    color:#B6CEB4;
 }
 footer{
     text-align: center;
