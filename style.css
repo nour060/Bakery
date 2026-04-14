@@ -49,7 +49,7 @@ nav a:hover{
     transition: color 0.3s ease;
 }
 .btn-commander a:hover{
-    color:#B6CEB4;
+    color:#D9E9CF;
 }
 .hero{
     background-color: #B6CEB4;
@@ -86,7 +86,7 @@ nav a:hover{
     transition: color 0.3s ease;
 }
 .hero a:hover{
-    color:#B6CEB4;
+    color:#D9E9CF;
 }
 .why{
     text-align: center;
@@ -136,7 +136,7 @@ nav a:hover{
     transition: color 0.3s ease;
 }
 .card a:hover{
-    color:#B6CEB4;
+    color:#D9E9CF;
 }
 .visit-section{
     display: flex;
@@ -181,7 +181,7 @@ nav a:hover{
     transition: color 0.3s ease;
 }
 .visit-text a:hover{
-    color:#B6CEB4;
+    color:#D9E9CF;
 }
 .visit-images{
     flex: 1;
@@ -278,7 +278,7 @@ nav a:hover{
     
 }
 .order-now button a:hover{
-    color:#B6CEB4;
+    color:#D9E9CF;
 }
 footer{
     text-align: center;
